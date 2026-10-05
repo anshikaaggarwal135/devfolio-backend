@@ -25,7 +25,8 @@ def create_app():
             "origins": [
                 "http://localhost:5173",
                 "http://localhost:5174",
-                "https://devfolio-cms-tau.vercel.app"
+                "https://devfolio-cms-tau.vercel.app",
+                "https://devfolio-frontend-omega.vercel.app"
             ]
         }
     }
